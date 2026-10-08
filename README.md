@@ -8,13 +8,16 @@ webOS 구독자와 가전 사용 현황을 조회하는 대시보드 프로젝�
 | 학기 | 2026-2 |
 | 과목코드 | CSE4103 |
 | 개발 환경 | Python / FastAPI / JavaScript |
-| 공통 자료 | [강의계획서](docs/syllabus.pdf) |
+| 공통 자료 | [강의계획서](docs/syllabus.pdf) · [학기말 과제 안내](docs/term-project-guide.pdf) |
 
 ## 프로젝트
 
-| 순서 | 프로젝트 | 구현 내용 |
-|---|---|---|
-| [prj1](prj1/README.md) | webOS Subscription Dashboard | 팀 프로젝트: 구독자·가전·사용 현황 대시보드 |
+| 순서 | 프로젝트 | 구현 내용 | 과제 자료 |
+|---|---|---|---|
+| [prj1](prj1/README.md) | webOS Subscription Dashboard | 팀 프로젝트: 구독자·가전·사용 현황 대시보드 | [요구사항 1](prj1/requirement_1.pdf) · [2](prj1/requirement_2.pdf) · [3](prj1/requirement_3.pdf) |
+
+학기말 과제 안내는 webOS 첫 화면 개발 과제의 공통 자료입니다.
+`prj1` 대시보드의 요구사항은 프로젝트별 PDF에 정리되어 있습니다.
 
 ## 저장소 구조
 
