@@ -25,9 +25,4 @@ CSE4103-Connected-Platform/
 ├── prj1/  # webOS Subscription Dashboard
 ```
 
-## 자료 출처
-
-프로젝트에는 구현 소스와 수업 제공 스켈레톤·테스트 도구가 포함됩니다.
-제공 코드의 라이선스와 팀원별 저작권은 각 원본 파일에 명시되어 있습니다.
-
 [빌드 및 테스트](docs/verification.md)

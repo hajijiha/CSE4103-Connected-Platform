@@ -62,11 +62,8 @@ python tests/req3_e2e_test.py
 E2E 테스트에는 실행 중인 서버가 필요합니다. 원본 팀 보고서의 107/107 결과는
 해당 보고서에 명시된 환경·커밋의 결과입니다. 현재 사본의 추가 API 검사는 [검증 기록](../docs/verification.md)에 있습니다.
 
-## 원본과 출처
+## 관련 자료
 
 - 팀 저장소: [minseok209/sogang_lg](https://github.com/minseok209/sogang_lg)
-- 보관 기준 커밋: `c5851da2f78c353c3df8ec9a306b8f5bb7847014`
 - [요구사항 1](requirement_1.pdf) · [요구사항 2](requirement_2.pdf) · [요구사항 3](requirement_3.pdf)
 - [최종 검증 보고서](tests/reports/final_test_report.md)
-
-팀원별 저작물과 제공 자료의 권리는 각 작성자에게 있습니다.
